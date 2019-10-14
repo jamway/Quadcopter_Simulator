@@ -1,3 +1,10 @@
+# This repo is cloned from Udacity's Deep Learning Nanodegree for review
+## The content in the notebook is filled by myself
+The following is the original readme for reference
+
+
+
+
 # Deep RL Quadcopter Controller
 
 *Teach a Quadcopter How to Fly!*
