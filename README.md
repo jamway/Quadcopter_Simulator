@@ -1,5 +1,8 @@
 # This repo is cloned from Udacity's Deep Learning Nanodegree for review
-The response in Quadcopter_Project.ipynb is filled by myself
+The response in Quadcopter_Project.ipynb and the following files are written by the student
+actor.py
+critic.py
+
 The following is the original readme for reference
 
 
