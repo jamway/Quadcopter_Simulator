@@ -1,14 +1,15 @@
 # This repo is cloned from Udacity's Deep Learning Nanodegree for review
-The response in Quadcopter_Project.ipynb <br>and the following files are written by the student
-<br>actor.py
-<br>critic.py
-<br>tast.py
+The response in <b>Quadcopter_Project.ipynb</b> <br>and the following files are written by the student
+<br><b>actor.py</b>
+<br><b>critic.py</b>
+<br><b>tast.py</b>
 
-The files originated from Udacity has been removed, please follow the instruction to obtain updated repo
+All other files are cloned from Udacity's repo and kept as reference
+https://github.com/udacity/RL-Quadcopter-2.git
 
 The following is the original readme for reference
 
-
+<br><br><br>
 
 
 
