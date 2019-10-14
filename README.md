@@ -4,6 +4,8 @@ The response in Quadcopter_Project.ipynb <br>and the following files are written
 <br>critic.py
 <br>tast.py
 
+The files originated from Udacity has been removed, please follow the instruction to obtain updated repo
+
 The following is the original readme for reference
 
 
