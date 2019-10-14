@@ -1,5 +1,5 @@
 # This repo is cloned from Udacity's Deep Learning Nanodegree for review
-## The content in the notebook is filled by myself
+The response in Quadcopter_Project.ipynb is filled by myself
 The following is the original readme for reference
 
 
